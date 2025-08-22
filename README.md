@@ -1,7 +1,7 @@
 # Банковский маркетинг: Прогнозирование открытия депозитов
 
 ## Описание проекта
-Проект направлен на решение задачи бинарной классификации для прогнозирования согласия клиентов на открытие депозитного счета в банке. На основе исторических данных строится модель машинного обучения, способная предсказать вероятность положительного отклика клиента.
+[Проект](https://github.com/UlyanaGru/ML_project4/blob/master/ml_progect4.ipynb) направлен на решение задачи бинарной классификации для прогнозирования согласия клиентов на открытие депозитного счета в банке. На основе исторических данных строится модель машинного обучения, способная предсказать вероятность положительного отклика клиента.
 
 ## Структура данных
 
@@ -59,3 +59,9 @@
 ### Требования
 ```bash
 pip install numpy pandas scikit-learn matplotlib seaborn optuna
+
+![1](https://github.com/UlyanaGru/ML_project4/blob/master/pictures/percentage_consent.png)
+![2](https://github.com/UlyanaGru/ML_project4/blob/master/pictures/DecisionTreeClassifier_accuracy.png)
+![3](https://github.com/UlyanaGru/ML_project4/blob/master/pictures/correlation_coeff.png)
+![4](https://github.com/UlyanaGru/ML_project4/blob/master/pictures/stacking.png)
+![5](https://github.com/UlyanaGru/ML_project4/blob/master/pictures/optim_Optuna.png)
