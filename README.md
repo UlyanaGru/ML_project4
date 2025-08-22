@@ -59,7 +59,7 @@
 ### Требования
 ```bash
 pip install numpy pandas scikit-learn matplotlib seaborn optuna
-
+```
 ![1](https://github.com/UlyanaGru/ML_project4/blob/master/pictures/percentage_consent.png)
 ![2](https://github.com/UlyanaGru/ML_project4/blob/master/pictures/DecisionTreeClassifier_accuracy.png)
 ![3](https://github.com/UlyanaGru/ML_project4/blob/master/pictures/correlation_coeff.png)
